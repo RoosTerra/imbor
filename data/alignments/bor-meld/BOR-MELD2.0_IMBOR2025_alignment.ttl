@@ -41,7 +41,7 @@ bormeld-imbor:bor-meld_imbor-term            rdf:type    owl:Ontology, void:Link
         owl:imports             imbor:, imbor-domeinwaarde:, bor-meld: ;
         .
 
-bor-meld:51505657-b8b7-4998-bf70-1959d9ebfe50 owl:equivalentClass imbor:c4522e75-7f0b-4bbe-a3c7-e93f34cc8b3 .
+bor-meld:51505657-b8b7-4998-bf70-1959d9ebfe50 owl:equivalentClass imbor:c4522e75-7f0b-4bbe-a3c7-e93f34cc8b31 .
 bor-meld:68711c51-2a0a-4c01-b833-72899a04a612 owl:equivalentClass imbor:d3bf7f42-b972-4aa3-ba33-732755e997db .
 bor-meld:77c313e4-76b9-4085-b0c0-2220e1bf6512 owl:equivalentClass imbor:58ef1415-6acb-412b-9c3e-e390bb2ae3b3 .
 bor-meld:8869ec9a-97ef-492f-8ae7-98ebc18056da owl:equivalentClass imbor:69d56930-9d78-473d-9c02-9b0a7e346a5c .
