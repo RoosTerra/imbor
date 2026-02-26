@@ -4,7 +4,7 @@
 
 > Het IMBOR uniformeert begrippen voor het vakgebied ‘beheer openbare ruimte’. 
 >
-> [CROW](https://www.crow.nl/thema-s/management-openbare-ruimte/imbor/over-imbor)
+> [CROW](https://www.crow.nl/Onderwerpen/assetmanagement-en-beheer-openbare-ruimte/Data-en-informatie/imbor-de-standaard-voor-beheer-van-de-openbare-ruimte/)
 
 Deze repo is gestart m.b.t. de documentatie omtrent de ontwikkeling en het gebruik van IMBOR in LinkedData-formaat. 
 Medio 2021 is deze repo volledig overgegaan op _volledig_ IMBOR.
