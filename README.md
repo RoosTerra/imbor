@@ -2,18 +2,17 @@
 
 # IMBOR (Informatiemodel Beheer Openbare Ruimte)
 
-> Het IMBOR uniformeert begrippen voor het vakgebied ‘beheer openbare ruimte’. Testest
+> Het IMBOR uniformeert begrippen binnen het vakgebied *beheer openbare* en maakt daarmee consistente en eenduidige gegevensuitwisseling mogelijk.
 >
-> [CROW](https://www.crow.nl/Onderwerpen/assetmanagement-en-beheer-openbare-ruimte/Data-en-informatie/imbor-de-standaard-voor-beheer-van-de-openbare-ruimte/)
+> Meer informatie over IMBOR is te vinden op de website van [CROW](https://www.crow.nl/Onderwerpen/assetmanagement-en-beheer-openbare-ruimte/Data-en-informatie/imbor-de-standaard-voor-beheer-van-de-openbare-ruimte/)
 
-Deze repo is gestart m.b.t. de documentatie omtrent de ontwikkeling en het gebruik van IMBOR in LinkedData-formaat. 
-Medio 2021 is deze repo volledig overgegaan op _volledig_ IMBOR.
+Deze repository is oorspronkelijk gestart voor de documentatie van de ontwikkeling en het gebruik van IMBOR in Linked Data-formaat. Sinds medio 2021 bevat deze repository de volledige IMBOR-structuur.
 
 Deze repository wordt gebruikt als community omgeving voor IMBOR. De issues, documentatie en licentie staan op deze repository. Voor de actieve ontwikkeling van IMBOR wordt een andere repository gebruikt, te weten: [imbor-development](https://github.com/Stichting-CROW/imbor-development).
 
 ## Issues
 
-Middels de GitHub Issues kunnen bug/features/aanbevelingen worden gegeven op IMBOR en de documentatie. [Issues](https://github.com/Stichting-CROW/imbor/issues) kunnen vragen, bugs of verzoeken ingediend worden ten behoeve van de nieuwe versie van IMBOR.
+Via [GitHub Issues](https://github.com/Stichting-CROW/imbor/issues) kunnen vragen, bugs en aanbevelingen worden ingediend met betrekking tot IMBOR en de bijbehorende documentatie. Ingediende punten worden meegenomen in de verdere doorontwikkeling van IMBOR.
 
 ## Documentatie
 
