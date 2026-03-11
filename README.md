@@ -8,7 +8,7 @@
 
 IMBOR uniformeert begrippen en objectgegevens voor het vakgebied beheer openbare ruimte. Het stelt gemeenten, provincies, waterschappen en andere beheerders in staat om op een consistente manier informatie vast te leggen en uit te wisselen over assets in de buitenruimte, zoals wegen, groen, waterinfrastructuur en civiele constructies.
 
-Meer informatie over IMBOR via [CROW|IMBOR](https://www.crow.nl/Onderwerpen/assetmanagement-en-beheer-openbare-ruimte/Data-en-informatie/imbor-de-standaard-voor-beheer-van-de-openbare-ruimte/)
+Meer informatie over IMBOR via [CROW|IMBOR](https://www.crow.nl/Onderwerpen/assetmanagement-en-beheer-openbare-ruimte/Data-en-informatie/imbor-de-standaard-voor-beheer-van-de-openbare-ruimte/).
 
 ## Gebruik
 
@@ -29,10 +29,10 @@ Voor de actieve ontwikkeling van IMBOR wordt de repository [imbor-development](h
 
 ## Verdere handige links 
 - [IMBOR Viewer](https://imbor-viewer.apps.crow.nl/...)
-- [Volledige documentatie](https://docs.crow.nl/#sectie-imbor)
-- [Technische documentatie](https://docs.crow.nl/imbor/techdoc/)
-- [Alignments met andere standaarden (BOR-MELD, IMGEO, KOR)](https://github.com/Stichting-CROW/imbor/tree/master/data/alignments)
 - [Filmpje over IMBOR 2021](https://essit.nl/praktijkvoorbeelden/771-wat-is-imbor-precies)
 - [Diagram over hoe IMBOR is opgebouwd](https://docs.crow.nl/imbor/techdoc/img/IMBOR-top.drawio.svg?raw=true)
+- [Technische documentatie](https://docs.crow.nl/imbor/techdoc/)
+- [Alignments met andere standaarden (BOR-MELD, IMGEO, KOR)](https://github.com/Stichting-CROW/imbor/tree/master/data/alignments)
 - [Basiscursus Linkeddata](https://www.crow.nl/cursussen/basiscursus-linked-data/) en [Basiscursus IMBOR](https://www.crow.nl/cursussen/basiscursus-imbor/)
+- [Andere relevante links](https://docs.crow.nl/#sectie-imbor)
 
