@@ -1,31 +1,38 @@
 ![image](https://github.com/Stichting-CROW/imbor/assets/56293445/5e00e5cf-2ba7-459f-9fb4-f433b346920a)
 
-# IMBOR (Informatiemodel Beheer Openbare Ruimte)
+# IMBOR — Informatiemodel Beheer Openbare Ruimte
 
-> Het IMBOR uniformeert begrippen binnen het vakgebied *beheer openbare* en maakt daarmee consistente en eenduidige gegevensuitwisseling mogelijk.
->
-> Meer informatie over IMBOR is te vinden op de website van [CROW](https://www.crow.nl/Onderwerpen/assetmanagement-en-beheer-openbare-ruimte/Data-en-informatie/imbor-de-standaard-voor-beheer-van-de-openbare-ruimte/)
+> Een informatiemodel en objecttypenbibliotheek voor assetbeheer van de openbare ruimte, ontwikkeld door [CROW](https://www.crow.nl).
 
-Deze repository is oorspronkelijk gestart voor de documentatie van de ontwikkeling en het gebruik van IMBOR in Linked Data-formaat. Sinds medio 2021 bevat deze repository de volledige IMBOR-structuur.
+## Over dit project
 
-Deze repository wordt gebruikt als community omgeving voor IMBOR. De issues, documentatie en licentie staan op deze repository. Voor de actieve ontwikkeling van IMBOR wordt een andere repository gebruikt, te weten: [imbor-development](https://github.com/Stichting-CROW/imbor-development).
+IMBOR uniformeert begrippen en objectgegevens voor het vakgebied beheer openbare ruimte. Het stelt gemeenten, provincies, waterschappen en andere beheerders in staat om op een consistente manier informatie vast te leggen en uit te wisselen over assets in de buitenruimte, zoals wegen, groen, waterinfrastructuur en civiele constructies.
 
-## Issues
+Meer informatie over IMBOR via [CROW|IMBOR](https://www.crow.nl/Onderwerpen/assetmanagement-en-beheer-openbare-ruimte/Data-en-informatie/imbor-de-standaard-voor-beheer-van-de-openbare-ruimte/)
 
-Via [GitHub Issues](https://github.com/Stichting-CROW/imbor/issues) kunnen vragen, bugs en aanbevelingen worden ingediend met betrekking tot IMBOR en de bijbehorende documentatie. Ingediende punten worden meegenomen in de verdere doorontwikkeling van IMBOR.
+## Gebruik
 
-## Documentatie
+Het model is beschikbaar in Linked Data-formaat (RDF/OWL), gebaseerd op de NEN 2660-2. Download de laatste release via de [releasepagina](https://github.com/Stichting-CROW/imbor/releases).
 
-Documentatie met betrekking tot IMBOR is te vinden op: [docs.crow.nl/IMBOR](https://docs.crow.nl/#sectie-imbor).
+## Issues 
 
-## Versiebeheer
-
-CROW beraadt zich nog op een duurzame beheersstrategie ten aanzien van IMBOR in Linked data-formaat. 
-Daar hoort ook versiebeheer bij. Zie ook issue [#2](https://github.com/Stichting-CROW/imbor/issues/2).
+Bugs, verbeterverzoeken en aanbevelingen kunnen worden ingediend via [GitHub Issues](https://github.com/Stichting-CROW/imbor/issues). Deze bijdragen worden besproken met de werkgroepen van CROW.
 
 ## Licentie
 
-Deze repository en IMBOR worden beschikbaar gesteld onder verschillende licenties. Zie hiervoor: [Technische documentatie, sectie Licenties](https://docs.crow.nl/imbor/techdoc/#licenties).
+IMBOR is beschikbaar onder meerdere licenties, afhankelijk van het onderdeel. Zie [Technische documentatie — Licenties](https://docs.crow.nl/imbor/techdoc/#licenties).
 
-## IMBOR-development
-Voor de ontwikkeling en werkversies van IMBOR wordt een andere repository gebruikt: [imbor-development](https://github.com/Stichting-CROW/imbor-development).
+## Actieve ontwikkeling 
+
+Voor de actieve ontwikkeling van IMBOR wordt de repository [imbor-development](https://github.com/Stichting-CROW/imbor-development) gebruikt.
+
+
+## Verdere handige links 
+- [IMBOR Viewer](https://imbor-viewer.apps.crow.nl/...)
+- [Volledige documentatie](https://docs.crow.nl/#sectie-imbor)
+- [Technische documentatie](https://docs.crow.nl/imbor/techdoc/)
+- [Alignments met andere standaarden (BOR-MELD, IMGEO, KOR)](https://github.com/Stichting-CROW/imbor/tree/master/data/alignments)
+- [Filmpje over IMBOR 2021](https://essit.nl/praktijkvoorbeelden/771-wat-is-imbor-precies)
+- [Diagram over hoe IMBOR is opgebouwd](https://docs.crow.nl/imbor/techdoc/img/IMBOR-top.drawio.svg?raw=true)
+- [Basiscursus Linkeddata](https://www.crow.nl/cursussen/basiscursus-linked-data/) en [Basiscursus IMBOR](https://www.crow.nl/cursussen/basiscursus-imbor/)
+
