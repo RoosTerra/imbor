@@ -29,7 +29,8 @@ Voor de actieve ontwikkeling van IMBOR wordt de repository [imbor-development](h
 
 ## Verdere handige links 
 - [IMBOR Viewer](https://imbor-viewer.apps.crow.nl/...)
-- [Filmpje over IMBOR 2021](https://essit.nl/praktijkvoorbeelden/771-wat-is-imbor-precies)
+- [Kort filmpje over IMBOR 2021](https://essit.nl/praktijkvoorbeelden/771-wat-is-imbor-precies)
+- [Webinair IMBOR 2025]https://www.crow.nl/actueel/terugblik-webinar-ontwikkelingen-imbor-2025/
 - [Diagram over hoe IMBOR is opgebouwd](https://docs.crow.nl/imbor/techdoc/img/IMBOR-top.drawio.svg?raw=true)
 - [Technische documentatie](https://docs.crow.nl/imbor/techdoc/)
 - [Alignments met andere standaarden (BOR-MELD, IMGEO, KOR)](https://github.com/Stichting-CROW/imbor/tree/master/data/alignments)
