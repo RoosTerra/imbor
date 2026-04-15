@@ -6,7 +6,7 @@
 
 Deze repository is de community omgeving voor IMBOR. Hier vind je de IMBOR releases en kun je aanbevelingen indienen.
 
-## Over dit project
+## Over IMBOR
 
 IMBOR uniformeert begrippen en objectgegevens van de openbare ruimte. Het stelt gemeenten, provincies, waterschappen en andere beheerders in staat om op een consistente manier vaste gegevens te registreren en uit te wisselen over assets in de buitenruimte, zoals wegen, groen, waterinfrastructuur en civiele constructies. 
 
@@ -29,11 +29,11 @@ Bugs, verbeterverzoeken en aanbevelingen kunnen worden ingediend via [GitHub Iss
 
 ## Relaties tot andere standaarden
 
-IMBOR is afgestemd op een aantal andere standaarden. Alignments met IMGeo, BOR-MELD en de KOR zijn te downloaden in Linked Data-formaat (RDF), via [Alignments](https://github.com/Stichting-CROW/imbor/tree/master/data/alignments). 
+IMBOR is afgestemd op een aantal andere standaarden. Alignments met IMGeo, BOR-MELD en de KOR zijn te downloaden in Linked Data-formaat (RDF), via [alignments](https://github.com/Stichting-CROW/imbor/tree/master/data/alignments). 
 
 ## Minimale dataset
 
-Binnen het programma DOOR (Dataharmonisatie Objecten Openbare Ruimte) hebben negen gemeenten een minimale dataset opgesteld met de, naar hun mening, belangrijkste vaste gegevens voor het efficiënt beheren van de openbare ruimte. Deze [Minimale dataset](https://github.com/Stichting-CROW/imbor/tree/master/data/informele%20handreiking) is te downloaden in Linked Data-formaat (RDF).  
+Binnen het programma DOOR (Dataharmonisatie Objecten Openbare Ruimte) hebben negen gemeenten een minimale dataset opgesteld met de, naar hun mening, belangrijkste vaste gegevens voor het efficiënt beheren van de openbare ruimte. Deze [minimale dataset](https://github.com/Stichting-CROW/imbor/tree/master/data/informele%20handreiking) is te downloaden in Linked Data-formaat (RDF).  
 
 ## Actieve ontwikkeling 
 
@@ -46,5 +46,4 @@ IMBOR is beschikbaar onder meerdere licenties, afhankelijk van het onderdeel. Zi
 ## Verdere handige links 
 - [Kort filmpje over IMBOR 2021](https://essit.nl/praktijkvoorbeelden/771-wat-is-imbor-precies)
 - [Webinair IMBOR 2025](https://www.crow.nl/actueel/terugblik-webinar-ontwikkelingen-imbor-2025/)
-- [Basiscursus Linkeddata](https://www.crow.nl/cursussen/basiscursus-linked-data/) en [Basiscursus IMBOR](https://www.crow.nl/cursussen/basiscursus-imbor/)
 - [Andere relevante links](https://docs.crow.nl/#sectie-imbor)
