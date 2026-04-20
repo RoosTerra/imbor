@@ -35,6 +35,10 @@ IMBOR is afgestemd op een aantal andere standaarden. Alignments met IMGeo, BOR-M
 
 Binnen het programma DOOR (Dataharmonisatie Objecten Openbare Ruimte) hebben negen gemeenten een minimale dataset opgesteld met de, naar hun mening, belangrijkste vaste gegevens voor het efficiënt beheren van de openbare ruimte. Deze [minimale dataset](https://github.com/Stichting-CROW/imbor/tree/master/data/informele%20handreiking) is te downloaden in Linked Data-formaat (RDF).  
 
+## Best practices
+
+CROW beheert een [IMBOR 'best practices'](https://docs.crow.nl/imbor/best-practices/. Dit zijn concrete uitwerkingen van hoe je IMBOR toepast in de praktijk. Onderwerpen zijn onder andere geometrie, temporele aspecten, materie en semantische relaties. 
+
 ## Actieve ontwikkeling 
 
 Voor de actieve ontwikkeling van IMBOR wordt de repository [imbor-development](https://github.com/Stichting-CROW/imbor-development) gebruikt.
@@ -44,6 +48,6 @@ Voor de actieve ontwikkeling van IMBOR wordt de repository [imbor-development](h
 IMBOR is beschikbaar onder meerdere licenties, afhankelijk van het onderdeel. Zie [Technische documentatie — Licenties](https://docs.crow.nl/imbor/techdoc/#licenties).
 
 ## Verdere handige links 
-- [Kort filmpje over IMBOR 2021](https://essit.nl/praktijkvoorbeelden/771-wat-is-imbor-precies)
+- [Kort filmpje over IMBOR 2022](https://essit.nl/praktijkvoorbeelden/771-wat-is-imbor-precies)
 - [Webinair IMBOR 2025](https://www.crow.nl/actueel/terugblik-webinar-ontwikkelingen-imbor-2025/)
 - [Andere relevante links](https://docs.crow.nl/#sectie-imbor)
